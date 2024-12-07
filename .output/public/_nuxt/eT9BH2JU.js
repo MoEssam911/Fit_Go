@@ -1,1 +1,0 @@
-import{f as n,c as l,a as e,t as a,g as o,o as c}from"./BU53U0Jm.js";const r={class:"min-h-screen dark:bg-slate-600 dark:text-white"},_={__name:"index",setup(i){const{locale:s}=n();return(t,u)=>(c(),l("div",null,[e("main",r,[e("div",null,[e("p",null,a(t.$t("welcome")),1),e("p",null,a(o(s)),1)])])]))}};export{_ as default};

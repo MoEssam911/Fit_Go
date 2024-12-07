@@ -4,6 +4,7 @@
       <div>
         <p>{{ $t("welcome") }}</p>
         <p>{{ locale }}</p>
+        <div>Mohamed Essam</div>
       </div>
     </main>
   </div>
